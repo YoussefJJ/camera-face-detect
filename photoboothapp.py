@@ -4,7 +4,6 @@ from matplotlib.pyplot import fill
 from face_detector import detect
 from tkinter import Tk, Label, Button
 import threading
-import imutils
 import datetime
 import cv2
 import os
