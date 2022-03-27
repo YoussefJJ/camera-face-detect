@@ -1,6 +1,5 @@
 from __future__ import print_function
 from PIL import Image, ImageTk
-from matplotlib.pyplot import fill
 from face_detector import detect
 from tkinter import Tk, Label, Button
 import threading
